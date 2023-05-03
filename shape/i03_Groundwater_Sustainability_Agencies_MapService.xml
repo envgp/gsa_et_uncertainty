@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>i03_Groundwater_Sustainability_Agencies_MapService</title>
+                <onlink>https://gis.water.ca.gov/arcgis/rest/services/Boundaries/i03_Groundwater_Sustainability_Agencies/MapServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The passage of the Sustainable Groundwater Management Act (SGMA) in 2014 set forth a statewide framework to help protect groundwater resources over the long-term. SGMA requires local agencies to form groundwater sustainability agencies (GSAs) for the high- and medium-priority basins. GSAs develop and implement groundwater sustainability plans (GSPs) to avoid undesirable results and mitigate overdraft within 20 years. GSA boundaries are managed through the SGMA Portal. This dataset represents the current GSA boundaries and includes attributes such as GSA contacts and GSA boundary status.  The GSA formation process is completed via the SGMA Portal and includes three primary steps, which are discussed in greater detail in Water Code § 10723.8. These steps include: 1) a local agency or group of local agencies submits a GSA formation notice to the SGMA Portal; 2) the Department of Water Resources (DWR) posts complete notices to the SGMA Portal to begin the 90-day GSA formation period; and 3) after 90-days the local agency(s) become an exclusive GSA. Prior to posting a submitted GSA formation notice, DWR staff must verify whether the submitted notice is complete and includes all required information outlined in Water Code § 10723.8. Lastly, only GSA formation notices which are not in overlap with another notice may become exclusive. Posted GSA formation notices which are in overlap are labeled “Yes” in the “Overlap” field of this dataset.</abstract>
+            <purpose>This data was collected during the implementation of the Sustainable Groundwater Management Act (SGMA) and the formation of Groundwater Sustainability Agencies (GSA). SGMA required local agencies to form GSAs within high- and medium-priority groundwater basins, and encouraged them to form GSAs within low- and very-low-priority basins, by June 30, 2017. New GSAs may be formed and existing GSAs may be modified following the June 30, 2017 deadline. During the GSA formation process local agencies are required to provide the Department of Water Resources (DWR) a GIS shapefile of their proposed GSA boundaries. This datasets contains the GSA shapefiles submitted to the DWR during the GSA formation process. This dataset should be used to accurately reflect the current GSA boundaries within California groundwater basins.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>boundaries</themekey>
+                <themekey>geoscientificInformation</themekey>
+                <themekey>SGMA</themekey>
+                <themekey>GSP</themekey>
+                <themekey>GSA</themekey>
+                <themekey>Groundwater Management Agency</themekey>
+                <themekey>Groundwater Sustainability Plan</themekey>
+                <themekey>Sustainable Groundwater Management Act</themekey>
+                <themekey>sub-basin</themekey>
+                <themekey>geology</themekey>
+                <themekey>groundwater</themekey>
+                <themekey>DWR</themekey>
+                <themekey>California</themekey>
+                <themekey>aquifers</themekey>
+                <themekey>basin</themekey>
+                <themekey>SGMO</themekey>
+                <themekey>aquifer</themekey>
+                <themekey>B-118</themekey>
+                <themekey>hydrogeology</themekey>
+                <themekey>Bulletin 118</themekey>
+                <themekey>temporal</themekey>
+                <themekey>place</themekey>
+                <themekey>local agency</themekey>
+                <themekey>geoscientific</themekey>
+                <themekey>Department of Water Resources</themekey>
+                <themekey>B118</themekey>
+                <themekey>sustainable</themekey>
+                <themekey>CAOpenData</themekey>
+                <themekey>regulations</themekey>
+                <themekey>California's Groundwater Live</themekey>
+                <themekey>Cal Groundwater</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the California Department of Water Resources (DWR), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</useconst>
+        <datacred>Department of Water Resources - Sustainable Groundwater Management Office</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20220902</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
