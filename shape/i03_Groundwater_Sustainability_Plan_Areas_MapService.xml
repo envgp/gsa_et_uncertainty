@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>i03_Groundwater_Sustainability_Plan_Areas_MapService</title>
+                <onlink>https://gis.water.ca.gov/arcgis/rest/services/Boundaries/i03_Groundwater_Sustainability_Plan_Areas/MapServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The passage of the Sustainable Groundwater Management Act (SGMA) in 2014 set forth a statewide framework to help protect groundwater resources over the long-term. SGMA requires local agencies to form groundwater sustainability agencies (GSAs) for the high and medium priority basins. GSAs develop and implement groundwater sustainability plans (GSPs) to avoid undesirable results and mitigate overdraft within 20 years. GSP boundaries are managed through the SGMA Portal. This dataset represents the current GSP boundaries and includes attributes such as GSP manager contacts and GSP status.  The GSP submission process is completed via the SGMA Portal and includes two primary steps: 1) a GSA(s) submits a GSP, and all associated documents and data, to the SGMA Portal’s GSP Reporting System; and 2) the Department conducts an acceptance review and posts accepted GSPs to the SGMA Portal. A single GSP, or multiple GSPs with a Coordination Agreement, must cover an entire basin or subbasin, and can only be submitted once adopted by the underlying GSA(s). GSPs are submitted in the format required by 23 CCR §353.2 and 23 CCR §353.4 of the GSP Regulations and includes the shapefiles associated with this dataset. The Department of Water Resources (DWR) must complete the acceptance review within 20-days following the submission of a GSP. During the acceptance review, DWR verifies that the GSP submission demonstrates that the GSP was adopted, covers the entire basin or subbasin, and contains all required documents and data. If DWR accepts the submitted GSP, it is then posted to the SGMA Portal, and then a public comment period is opened.</abstract>
+            <purpose>This data was collected during the implementation of the Sustainable Groundwater Management Act (SGMA) during the submission of Groundwater Sustainability Plans (GSPs) by Groundwater Sustainability Agencies (GSAs) to the Department of Water Resources (DWR). SGMA required local agencies to submit GSPs for critically overdrafted high- and medium-priority basins by January 31, 2020 the remaining high- and medium-priority groundwater basins by January 31, 2022. During the GSP submittal process, the submitting GSAs are required to provide DWR a GIS shapefile of the boundaries that their GSP covers. This datasets contains the GSP shapefiles submitted to the Department during the GSP submittal process. This dataset should be used to accurately reflect the current boundaries of areas covered by GSPs within California groundwater basins.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>boundaries</themekey>
+                <themekey>geoscientific</themekey>
+                <themekey>Information</themekey>
+                <themekey>SGMA</themekey>
+                <themekey>GSP</themekey>
+                <themekey>GSA</themekey>
+                <themekey>Groundwater Management Agency</themekey>
+                <themekey>Groundwater Sustainability Plan</themekey>
+                <themekey>Sustainable Groundwater Management Act</themekey>
+                <themekey>sub-basin</themekey>
+                <themekey>geology</themekey>
+                <themekey>groundwater</themekey>
+                <themekey>DWR</themekey>
+                <themekey>California</themekey>
+                <themekey>aquifers</themekey>
+                <themekey>basin</themekey>
+                <themekey>SGMO</themekey>
+                <themekey>aquifer</themekey>
+                <themekey>hydrogeology</themekey>
+                <themekey>Bulletin 118</themekey>
+                <themekey>CAOpenData</themekey>
+                <themekey>sustainable</themekey>
+                <themekey>SMC</themekey>
+                <themekey>sustainable management criteria</themekey>
+                <themekey>Department of Water Resources</themekey>
+                <themekey>subbasin</themekey>
+                <themekey>regulations</themekey>
+                <themekey>temporal</themekey>
+                <themekey>place</themekey>
+                <themekey>B118</themekey>
+                <themekey>B-118</themekey>
+                <themekey>local agency</themekey>
+                <themekey>sustainability</themekey>
+                <themekey>ground water</themekey>
+                <themekey>California's Groundwater Live</themekey>
+                <themekey>Cal groundwater</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the California Department of Water Resources (DWR), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</useconst>
+        <datacred>Department of Water Resources - Sustainable Groundwater Management Office</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20220902</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
